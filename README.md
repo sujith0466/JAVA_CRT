@@ -8,19 +8,19 @@ This repository contains multiple **Java programs** demonstrating core programmi
 
 ## **Projects Overview**
 
-| #  | Project Name              | Description                                                     | File                                         |
-| -- | ------------------------- | --------------------------------------------------------------- | -------------------------------------------- |
-| 1  | Array Operations          | Linear Search, Binary Search, Bubble Sort                       | [ArrayOperations.java](path-to-file)         |
-| 2  | Linked List               | Insert/Delete at start, end, or specific position; Display list | [LinkedList.java](path-to-file)              |
-| 3  | Stack Implementation      | Push, Pop, Peek operations; Display stack                       | [StackProgram.java](path-to-file)            |
-| 4  | Queue Implementation      | Enqueue, Dequeue, Peek; Display queue                           | [QueueProgram.java](path-to-file)            |
-| 5  | Calculator with Login     | Basic arithmetic operations; username & password login          | [CalculatorWithLogin.java](path-to-file)     |
-| 6  | Roman to Normal Converter | Convert Roman numerals to integer values                        | [RomanConverter.java](path-to-file)          |
-| 7  | Neon Number Program       | Check if a number is a neon number                              | [NeonNumber.java](path-to-file)              |
-| 8  | Pattern Programs          | Butterfly, Irregular and custom patterns                        | [PatternPrograms.java](path-to-file)         |
-| 9  | Two Sum Problem           | Find all pairs in an array that sum to a target                 | [TwoSum.java](path-to-file)                  |
-| 10 | OOP Calculator            | Object-oriented calculator with arithmetic methods              | [OOPCalculator.java](path-to-file)           |
-| 11 | College Management System | Manage Students and Teachers; Add, View, Update, Delete         | [CollegeManagementSystem.java](path-to-file) |
+| #  | Project Name              | Description                                                     | File Link                                                                                                     |
+| -- | ------------------------- | --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| 1  | Array Operations          | Linear Search, Binary Search, Bubble Sort                       | [ArraySearching.java](https://github.com/sujith0466/JAVA_CRT/blob/main/ArraySearching.java)                   |
+| 2  | Linked List               | Insert/Delete at start, end, or specific position; Display list | [LinkedListOperations.java](https://github.com/sujith0466/JAVA_CRT/blob/main/LinkedListOperations.java)       |
+| 3  | Stack Implementation      | Push, Pop, Peek operations; Display stack                       | [StackOperations.java](https://github.com/sujith0466/JAVA_CRT/blob/main/StackOperations.java)                 |
+| 4  | Queue Implementation      | Enqueue, Dequeue, Peek; Display queue                           | [QueueOperations.java](https://github.com/sujith0466/JAVA_CRT/blob/main/QueueOperations.java)                 |
+| 5  | Calculator with Login     | Basic arithmetic operations; username & password login          | [CalculatorWithLogin.java](https://github.com/sujith0466/JAVA_CRT/blob/main/CalculatorWithLogin.java)         |
+| 6  | Roman to Normal Converter | Convert Roman numerals to integer values                        | [RomanToDecimal.java](https://github.com/sujith0466/JAVA_CRT/blob/main/RomanToDecimal.java)                   |
+| 7  | Neon Number Program       | Check if a number is a neon number                              | [NeonNumber.java](https://github.com/sujith0466/JAVA_CRT/blob/main/NeonNumber.java)                           |
+| 8  | Pattern Programs          | Butterfly, Irregular and custom patterns                        | [PatternPrograms.java](https://github.com/sujith0466/JAVA_CRT/blob/main/PatternPrograms.java)                 |
+| 9  | Two Sum Problem           | Find all pairs in an array that sum to a target                 | [TwoSumProblem.java](https://github.com/sujith0466/JAVA_CRT/blob/main/TwoSumProblem.java)                     |
+| 10 | OOP Calculator            | Object-oriented calculator with arithmetic methods              | [Calculator.java](https://github.com/sujith0466/JAVA_CRT/blob/main/Calculator.java)                           |
+| 11 | College Management System | Manage Students and Teachers; Add, View, Update, Delete         | [CollegeManagementSystem.java](https://github.com/sujith0466/JAVA_CRT/blob/main/CollegeManagementSystem.java) |
 
 
 ## **How to Run**
